@@ -1,0 +1,36 @@
+#contenidos{
+width: 1000px;
+margin: auto;
+padding: auto;
+position: relative;    
+}
+header{
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    height: auto;
+}
+h1{
+    font-size: 45px;
+    margin: 15px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    margin: 25px;
+    text-align: center;
+}
+nav{
+    width: 1000px;
+    height: 70px;
+    position: absolute;
+}
+nav ul l1{
+    list-style-type: none;
+}
+
+menu:active{text-decoration: none;}
+menu:hover{text-decoration: none;}
+menu:link{text-decoration: none;}
+menu:focus{text-decoration: none;}
+menu:visited{text-decoration: none;}
