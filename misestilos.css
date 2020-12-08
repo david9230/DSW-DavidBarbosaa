@@ -1,0 +1,69 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.menu{
+    padding: 20px;
+    background-color: #F0B429;
+    width: 100%;
+}
+
+.tabla{
+    width: 80%;
+    margin: 40px;
+}
+
+.Informacion_div{
+    padding: 20px;
+    background-color: #F47920;
+}
+
+.titulos{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subtitulos{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contenido{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
+
+.imagen{
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+    border: 2px solid black;
+}
+
+.contenidos{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
+
+.referencia{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.extra{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+iframe{
+    width: 90%;
+    height: 200vh%;
+}
